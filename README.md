@@ -102,3 +102,6 @@ Para finalizar, exploramos as variáveis preditoras mais importantes para a pred
 Esta análise de explicabilidade é importante para analisarmos o peso atribuído a cada atributo, o que pode ajudar em discussões com a área de negócio quando necessário, além de tornar palpável nossos resultados para este público. Também é possível selecionar algumas variáveis e treinar o modelo novamente somente com as mais importantes, o que ajudaria a reduzir a complexibilidade do modelo (levando a tempos menores de aplicação e de geração de bases de propensão). 
 
 Para este caso, não foi necessário seguir nenhuma dessas alternativas pois os modelos conseguiram se ajustar bem aos dados fornecidos. 
+
+  --- 
+  Visit my [LinkedIn](https://www.linkedin.com/in/manuelcalcada/ "Stay in touch!")!
